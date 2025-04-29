@@ -1,0 +1,12 @@
+# Training
+comet-ml 
+python-dotenv
+torchmetrics
+triton 
+efficientnet-pytorch
+
+# Infernece
+mediapipe
+opencv-python
+pillow
+numpy
